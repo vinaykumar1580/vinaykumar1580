@@ -5,7 +5,7 @@
 - 🧑‍💻 I’m currently working on Projects
 - 🌱 I’m currently learning JavaScript,React
 - 🤝 I’m looking to collaborate with Full-Stack Developers
-- 💬 Ask me about: HTML, CSS, JS, PYTHON
+- 💬 Ask me about: HTML, CSS, JS, Java
 - 📫 Reach me at vinaykumarbaratam1580@gmail.com
 
 ---
@@ -34,8 +34,8 @@
 ### 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaykumar1580&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaykumar1580&show_icons=true&theme=tokyonight&cache_seconds=86400)
 <!-- Language Stats -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar1580&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar1580&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 
