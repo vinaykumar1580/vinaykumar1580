@@ -34,8 +34,7 @@
 ### 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaykumar1580&show_icons=true&theme=tokyonight&cache_seconds=86400)
-<!-- Language Stats -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar1580&layout=compact&theme=tokyonight&cache_seconds=86400)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaykumar1580&show_icons=true)
+<!-- Lang Stats -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar1580&layout=compact)
 
