@@ -1,9 +1,9 @@
 # Hi 👋, I'm Baratam Vinay Kumar
 
-### A passionate Front End developer from India
+### A passionate Java Full Stack developer from India
 
 - 🧑‍💻 I’m currently working on Projects
-- 🌱 I’m currently learning JavaScript,React
+- 🌱 I’m currently learning React
 - 🤝 I’m looking to collaborate with Full-Stack Developers
 - 💬 Ask me about: HTML, CSS, JS, Java
 - 📫 Reach me at vinaykumarbaratam1580@gmail.com
